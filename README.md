@@ -16,7 +16,8 @@
 
 ## Stats
 <p float="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=markvn2&show_icons=true&theme=dark&locale=en&border_radius=20&line_height=26" alt="markvn2" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markvn2&theme=dark&locale=en&border_radius=20" alt"markvn2lang"/> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markvn2&theme=dark&locale=en&border_radius=20" alt"markvn2lang"  height="200"/> 
+   <img align="center" src="https://streak-stats.demolab.com?user=MarkVN2&theme=dark&date_format=M%20j%5B%2C%20Y%5D&border_radius=20" alt ="markvn2streak"   height="200"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=markvn2&show_icons=true&theme=dark&locale=en&border_radius=20" alt="markvn2"  height="200"/>
 </p>
 <hr/>
