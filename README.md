@@ -16,7 +16,7 @@
 
 ## Stats
 <p float="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=markvn2&show_icons=true&theme=dark&locale=en&border_radius=20" alt="markvn2" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=markvn2&show_icons=true&theme=dark&locale=en&border_radius=20&line_height=26" alt="markvn2" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markvn2&theme=dark&locale=en&border_radius=20" alt"markvn2lang"/> 
 </p>
 <hr/>
