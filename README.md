@@ -9,6 +9,7 @@
 - 📫 How to reach me **markosvinicius.nunes@gmail.com**
 
 <h3 align="left">Connect with me: (OFFLINE)</h3>
+
 <p align="left">
 </p>
 
@@ -24,3 +25,10 @@
   <img align="center" src="https://streak-stats.demolab.com?user=MarkVN2&theme=dark&date_format=M%20j%5B%2C%20Y%5D&border_radius=20" alt ="markvn2streak"   height="200"/>
 </div>
 <hr/>
+
+# Contacts
+
+## Discord
+
+  [![Discord Presence](https://lanyard.cnrad.dev/api/297109333416607754)](https://discord.com/users/297109333416607754)
+
