@@ -4,7 +4,7 @@
 <hr>
 <h3 align="center"> I am a Systems Analysis and Development student at Fatec. I live in São José dos Campos, Brazil </h3>
   
-- 🌱 I’m currently learning **JavaScript ,Lua, Flask Microframework and  revisiting C#.**
+- 🌱 I’m currently learning **JavaScript ,Lua and Java.**
 
 - 📫 How to reach me **markosvinicius.nunes@gmail.com**
 
