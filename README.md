@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Markos</h1>
+<image align="center" src="https://github.com/MarkVN2/MarkVN2/assets/105757405/e864f14d-6f4e-4888-8da1-c3cea67b6b60">
 <h3 align="center">I am a Systems Analysis and Development student at Fatec. I live in São José dos Campos, Brazil</h3>
 
 - 🌱 I’m currently learning **JavaScript ,Lua, Flask Microframework and  revisiting C#.**
