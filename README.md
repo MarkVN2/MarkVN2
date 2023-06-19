@@ -51,9 +51,3 @@
 </div>
 <hr/>
 
-# Contacts
-
-## Discord
-
-  [![Discord Presence](https://lanyard.cnrad.dev/api/297109333416607754)](https://discord.com/users/297109333416607754)
-
