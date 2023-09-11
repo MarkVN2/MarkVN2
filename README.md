@@ -17,7 +17,7 @@
 
 <h3 align="center">Languages and Tools</h3>
 <p align="center"> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+<a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer"> 
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> 
 </a> 
   
@@ -69,9 +69,20 @@
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer" >
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </a>
-  
+</p>
+
+<p align="center">   
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</a>
+<a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+</a>
+</p>
+
+<p align="center"> 
+<a href="https://godotengine.org/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine"/>
 </a>
 
 <a href="https://unity.com" target="_blank" rel="noreferrer">
