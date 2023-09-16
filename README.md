@@ -8,19 +8,24 @@
 
 - 📫 How to reach me **markosvinicius.nunes@gmail.com**
 
-<h3 align="left">Connect with me: (OFFLINE)</h3>
-
 <p align="left">
 </p>
 
 ##
 
+
 <h3 align="center">Languages and Tools</h3>
-<p align="center"> 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,cs,java,python,flask,mysql,aws,godot,unity,idea,vscode&perline=4">
+  </a>
+</p>
+
+<!--<p align="center"> 
 <a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer"> 
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> 
 </a> 
-  
+
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
 </a> 
@@ -31,7 +36,7 @@
 
 </p>
 
-<!-- <p align="center"> 
+<p align="center"> 
 <a href="https://flask.palletsprojects.com/en/2.3.x/" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
 </a>
@@ -40,7 +45,7 @@
   <img src="https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black"/>
 </a>
 </p>
--->
+
 
 
 <p align="center"> 
@@ -90,8 +95,9 @@
 </a>
 
 </p>
+-->
 
-## Stats
+<h2 align="center">Stats</h2>
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=markvn2&show_icons=true&theme=dark&locale=en&border_radius=20" alt="markvn2"  height="200"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markvn2&theme=dark&locale=en&layout=compact&border_radius=20" alt"markvn2lang"  height="200"/> 
