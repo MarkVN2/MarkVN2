@@ -4,7 +4,7 @@
 <hr>
 <h3 align="center"> I am a Systems Analysis and Development student at Fatec. I live in São José dos Campos, Brazil </h3>
   
-- 🌱 I’m currently learning **C,C++,Lua and Java.**
+- 🌱 I’m currently learning **C,C++ and Lua**
 
 - 📫 How to reach me **markosvinicius.nunes@gmail.com**
 
@@ -17,7 +17,7 @@
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,cs,java,python,flask,mysql,aws,godot,unity,idea,vscode&perline=4">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap,cs,cpp,java,python,flask,mysql,aws,vercel,godot,unity,idea,vscode&perline=4">
   </a>
 </p>
 
