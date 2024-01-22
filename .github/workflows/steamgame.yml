@@ -18,6 +18,8 @@ jobs:
         with:
             filename: metrics.plugin.steam.svg
             token: NOT_NEEDED
+            plugin_topics: yes
+            plugin_topics_mode: mastered
             base: ""
             plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
             plugin_steam: yes
