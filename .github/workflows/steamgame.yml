@@ -19,8 +19,6 @@ jobs:
             filename: metrics.plugin.steam.svg
             token: NOT_NEEDED
             base: ""
-            plugin_introduction: yes
-            plugin_introduction_title: yes
             plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
             plugin_steam: yes
             plugin_steam_user: "76561198160602739"
