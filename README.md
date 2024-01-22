@@ -22,13 +22,8 @@
 </p>
 
 <h2 align="center">Stats</h2>
-<div align="center">
-  <picture>
-  <img src="/metrics.classic.svg" alt="Metrics">
-  </picture>
-  <picture>
-  <img src="/metrics.plugin.steam.svg" alt="SteamMetrics">
-  </picture>
+<div>
+  <img align="left"  alt="🇦🇱" src="/metrics.classic.svg">
+  <img align="" src="/metrics.plugin.steam.svg" alt="🇦🇱">
 </div>
 <hr/>
-
