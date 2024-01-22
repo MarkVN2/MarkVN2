@@ -24,6 +24,6 @@
 <h2 align="center">Stats</h2>
 <div>
   <img align="left"  alt="🇦🇱" src="/metrics.classic.svg">
-  <img align="" src="/metrics.plugin.steam.svg" alt="🇦🇱">
+  <img align="right" src="/metrics.plugin.steam.svg" alt="🇦🇱">
 </div>
-<hr/>
+
