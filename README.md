@@ -24,6 +24,7 @@
 <h2 align="center">Stats</h2>
 <div>
   <img align="left" width="390" alt="🇦🇱" src="/metrics.classic.svg">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=markvn2&show_icons=true&theme=dark&locale=en&layout=compact" alt="markvn2"   width="390"/>
   <img align="right" width="390" src="/metrics.plugin.steam.svg" alt="🇦🇱">
 </div>
 
