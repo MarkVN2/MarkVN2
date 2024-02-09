@@ -52,15 +52,15 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHQAAAgEFAQEAAAAAAAAAAAAABwgEAQIDBQYJAP/EACwQAAEDBAECBgIDAAMAAAAAAAECAwQABQYRBxIhCBMiMUFRFBUyYYEjcZH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AWe9XN+5y/NkdJVoAaGqgdZJO6+V9e1ZIbH5Mppnq6etXTs0FmzoAjY+NVnixJUpLiozK3AgbUUj2FGnEsCZw7IrbIypn8yz3AJShaB2SSN96OeMcSw7TdLw5DabXbLlHSGgpOyjZ3ugS5myXVbBdbgvFHyrXata6lbS+hxJQpJ9j8V6QYrhlvtVj/XvxY7oCirZQCe9Abkjg6RkvKE79SyIdsTGQsL16VL+QKBVyo6qVbpzsKW2+zoFJ+RXScj4NOwe7GJOPUCfSQK5BOuob9vqgqo9wfn7o3eHGx4zk82Rar1CeclLHocQvWu9By2w/z7lHiNnQeV0gmnB4O4sm4U+u5PhLqltBaNDv90BTsmJWqyWtm2yil9gLPkiR6yD/AETXQXWV+stL8hDfUGG9oQn518UFse5HcyHkg49eobzCorhUwrqACiaw828oXjHGZlvatbvkFGkyCB0mg5CP4iclfyd2KzavNjtulBaS2OrW9e9NBapf5drjTHWiwp5sLUlfuNilz8J4tdwiz5kphpdwdWokuJCtd6MHLka4yMTcbtEhMZWvU57ACgFHiC41yHLXJV2/NiNQYaOtDRR61/7SiOtKZkONqGi2opP+U+WUWi53/jYLauiEPssBKlDelaFIteGVR7rIacX1rS4QpQ9j3oK2VaW7zDWtXSkODZHbVegNuVdXX7OWp7P61UZsFGvV/H7rzyJKHOpJ7juDTjeG/K7ZfLYwzcphN1Y9KGiv3A7DtQDnmeO1gPMkC5MPOLR1pdWgK9R3RP5guFlk8ePSHJLS5EqMlQSo7KCRuhb4vLU8xmqJqlFTbjaQD9dvauF4gkW6flMeNlLsl+ESAAp09IH+0Bj8PVul2nHoM2E0X1vSFhzpGh0/FReauTZUTG5mNSS4zcnFqUSFaIQT2qZzbyeMVhx7PhQYZYUkDrSkdu1CnjWDK5O5Pt7mRpVKYWpKH1IHT6RQMB4fHpL/ABTKcvLjioYSrRWTs/7Si5h5Rym4FgENecrp/wDab7l/P8dwfEpeN2lTYleX5aWUe6f7NJW66p+Q46o+paio7/ugscGjoAgf3XR8cz127L7a+3KMZKXQVK3oarS3GC/Be8mQ2oLA33qMCoEEbB+NUBw8S+ZwcinwI1vfTIDLaStaT8670EGlOJcHkqUlX2k6NUWVqJUolSvkmr2SG3ApYKh9CgLuL8XXPI7am43+cmLDbSFBbp+KJr2fYbxlj4YxltqVcyjpLidHv90uEnJZzkRMWPIltsDsUlw6rVzJHnJShCT0juSrud/90E3Lr/Iya+SLnMP/ACufFadP8k79qoEnftWeHFdlSENMpKlKOgKD/9k=" alt="" />
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAAAAQUBAQEAAAAAAAAAAAAACAMEBQYHAgAB/8QAMBAAAQMDAwMCBQIHAAAAAAAAAQIDBAAFEQYSIQcxQRNRFBYiQmEjcTIzNkNikfD/xAAXAQEBAQEAAAAAAAAAAAAAAAAEBQEA/8QAIxEAAQQCAgICAwAAAAAAAAAAAQACAwQREhMhMTIiYQUUQf/aAAwDAQACEQMRAD8AGa8XR64yvWeACsY7Uw3H/ddEFTgwOT4rzjS2lYcQQT2yK5cn1ttU+6LAhR1u890jtSt6s02zKSmYgpK/GK1PpLEcasqzIYU2oklKjxxVk1Fp6Ff2UomIV9P3A4qkyjvFsD2VMff45dSOgsDtFtk3aR8PETlQ5xilrpYrna1FUyKtCR95HFbfpzStusDinIiVKUrjco5pt1Firf028GGS67gnit/Q1jLnHtYPyG0moHSwMqJyKdW6c7Cltvt4Kknjim6WlqX6YQr1AeRivKQpDuFAhQ8GpiqK49OLMzc7sp2QpJSwAoJPmtbl6ftk1xl16OgKbPAAAzWHaNmvw9QRC0ogLWEqT7iiSsNveu8piNHwVL78dqsUdDEcjwo1/cSjB8pk22hpKUISkISPtGBXX/Z8VZ5FlsgkLt8O7sOXBI/kgnO7yKrvwz3xBjbSpxKiAB3Jpsc0cg+B8IMsMkR+YSXP7n38V8ICuCAUn37UtIjvR3C04gtuK7pV4qeYtFnj+ixebqzFkvYIbUTnB7VskzIxl5WRwvlOGBUZrT1sZmrlojoLqhyMDFZt1SsrEV9qdH2oU6dqkCtz1FZ3bNL9JagWlpCm1+4PY0O3Uuc9J1C4ytRDbYG1P5odwx8OR/U2kJObBPhQum/6hhc/3BRUaGuLVsuLa5B2trQE7vahc0gpoaptxkj9IOjcPxRb22NpeeI7CUutuqAwpS+M0ekRxuaR0Ui8DyNc09hVhvRvwGrDeV3VpUcOl5JGcnPjNTempTS9YRJDuEMh36irsRTDUMBVtuS4u5bjaRuTycYNSls0w3ItTc+VcG4iVqKQF5zxSo4I4WE59ukWWxJO8Aj17TjqRKYXqtT8XY4yEJwEVVdQ6T+ZruxcI9ybaSUpSsLydmKs8jSrK4EiVEujcosp3FKck1XrXHXLuDMZBWj1FbSecCtdBHNGGk+qxliSGQux7KZ1jPZkpiQ4zgeEVtKSvvkgYoXuoHOqX/HAosZ1u01a3fQk+q8+E5UUrxQsdVFRla0lGACGCkAAnJotrUQtY0HCVU2MznOIyVVoz6o0tt5v+JBzRAaL1NFuUSO4y6hEpoDIP4rArjCfhPenJQUKxXESTIiOBcdxTah7HGaLWsmE/RS7NYTj7CMn53kOJAkxo6yAE7i2M8VHah1G5emmmVIS020c4QMChwga/vEZIQ4pLgHb6amEdTZAA3xio+cYqgyzXztjCnvq2cak5W46evjlkfcdaAcQ4NpSoZFTA1u80rfHiRkrBzn0xQ7q6nPnOyKoDxnFRc7qHd30lLO1vP8AjXSWq5OSMrI6tkDAOFsWrdSx4iX5091BfWDhI96Ha8TlXG5uyV/eo4/auJ86XPcK5TynFHxnikocZ2S+lphJUsntQbNozYAGAE+rVEOSTklf/9k=" alt="" />
                             <div class="about">
-                                <div class="name">Victoria II</div>
+                                <div class="name">Godot Engine</div>
                                 <div class="infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                         </svg>
-                                        Strategy
+                                        Game Development
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -68,7 +68,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        437 hours played
+                                        17 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -76,7 +76,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 8 Feb 2024
+                                        Last played on 9 Feb 2024
                                     </div>
                                 </div>
                                 <div class="achievements">
