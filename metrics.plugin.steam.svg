@@ -52,15 +52,15 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAAAAAcBAQAAAAAAAAAAAAAAAAIEBQYHCAED/8QAMhAAAQMEAAQEBQMEAwAAAAAAAQIDBAAFBhEHEiExE0FRYQgUIjJxFSNSFkKBgpGhsf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDK3TW6GumwKHc+p9qW2m1TrvJEa2RXJD5/sRQIh2O67oefU+lT2Dw9RFTzZXd41kcT1+XkJJWsegIqYW5Fjx6K3OtNhksnfL+qTj4sdWvPlNBVUbGL1Jtb1zYtz6oLQ5lva6AU3woEqeVJhsLcKeqteVWbk2fszOZFwUmW+jq2q3/ssf7I86g15yefdeTxAzHS39vy7fhk/nXegM3h99eYccYt7rqGk8y+XX0j1NMSkqSpQUNKT0UPSpRhEbKrndmv6ZamTJKVb8NJKkn8gnRFWJxl4ZTrHiltySbH8KfIWUy2UDQQAO+vzQJ/hu4ZwM+vM1d8S7+nxEBY5FcvOretVzjLlUa25K7j+Ix24tqjAI520gPKV2P1jrVp/Bk6ybLdG2yDJSCVJ89b6VR9maQzleXXt9AdkWl5yQ2hwbSolwjqPOgeILeSR4KWmMVmy230gqcmadUR32kntWsMTexnPMITbRGjlsMhmTFCAFNqAAPl06+dR7FcYTAsNkih1xaruQ/MUpRJS2scwSj+Oqkl6x1rG7lGv9iSIzbWkzmh2daHbQ/lvzoMpZ5wLyGDnr1qx2A/Mt69OIfQNpbSryP4q0uHvwxwo3JJzKV80s6UlhglHKfQ+taUjrQ8w2+lOvEQFe+j1ozzqGWVOOrShCRsqV2AoI8iDj2C2ByS3HjQocRG1O8gCte57moDxMvlvy7gdfLlMjqgtLQtDHjkbVojSh7EU2TZj3FjLFMocLGHWpfO67vQfUOik78+1UX8RPEhOS3ZFhsKvCsFu/bQhvoFKHQ713FB5fC/maMUz0RpagiJcwlha1HonR3unziFj6Mf4rXmyK0iBkTKQ3JP2Ak826oJC1NrSttRQoHYIPUGtD2PIrXxfwuNjuRzmrdlFuG4M1X0+L00E9Ou9UFv4DkC79jdsDKgq7Y86Q9BHRx5lP0pI9j3qeXjILXdMdmoZlNl0tgLa39STsbBrOGCWHJblHE9+2zJ6obqo7ci3LDQWUdPr/kKJxHyDKMNVFfGPSoERS/33HgFBweg96DW9v0LfFA+3wk/+Cqh4tXa8ZLk7WA2BDjDbiUruEr0aV2APkac+EvGHHs3hx4jbghXNKQj5V5QKlEDWxXtxuz2Bw+x1+a0ln9bkpLcY8o5ub3PcigqHj1mkPBcXawLEVpadWgCa6n7iCO+/XYrLfNvfMdqJ3v3pRdLhIulwkTZrqnZDyytalHfc7pMnYBHTZ8qAlHacWy4lxpakOJ6hSToj/NEoUGseBOAZBc+H0eazfXIjbry1BnmVv8ANS/Ipl14eWd9rNEs5DjzqSEaR9bKvMkq8qzvjXHrNsctTNutz8BMVoaSlcYE/wDO6ZeInFXJc+YYYvshvwWTzJQwnkBPuPOgicq4KbvUmZa1uRQXlLaLauUpSTsDYpTk2R3XI5Lb13kuPrbQEIClEgADv+aZv+xXTob679DQFoVyhQf/2Q==" alt="" />
+                            <img src="data:image/jpg;base64,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" alt="" />
                             <div class="about">
-                                <div class="name">ULTRAKILL</div>
+                                <div class="name">Project Zomboid</div>
                                 <div class="infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                         </svg>
-                                        Action, Indie, Early Access
+                                        Indie, RPG, Simulation, Early Access
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -68,7 +68,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        173 hours played
+                                        181 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -76,7 +76,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 5 May 2024
+                                        Last played on 10 May 2024
                                     </div>
                                 </div>
                                 <div class="achievements">
