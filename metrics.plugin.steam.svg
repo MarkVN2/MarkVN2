@@ -30,7 +30,7 @@
                             <div class="label" title="MySQL is an open source relational database management system.">mysql</div>
                             <div class="label" title=".NET is a free, cross-platform, open source developer platform.">.net</div>
                             <div class="label" title="TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.">typescript</div>
-                            <div class="label" title="Unity is a game engine used to create 2D/3D video games, and simulations for computers, consoles, and mobile devices.">unity</div>
+                            <div class="label" title="">unity</div>
                             <div class="label" title="Game engine, React Native, Flask, Markdown, Minecraft, Lua, Gradle, Pixel Art">and 8 more...</div>
                         </div>
                     </section>
